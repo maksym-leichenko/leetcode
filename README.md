@@ -15,3 +15,4 @@ Solved:
 - [x] [easy] [string] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [easy] [array] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [x] [easy] [array] [27. Remove Element](https://leetcode.com/problems/remove-element/)
+- [x] [easy] [array] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
