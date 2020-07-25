@@ -18,3 +18,4 @@ Solved:
 - [x] [easy] [array] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] [easy] [array] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [x] [easy] [array] [66. Plus One](https://leetcode.com/problems/plus-one/)
+- [x] [easy] [array] [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
