@@ -11,3 +11,5 @@ Solved:
 
 25.07: 
 - [x] [easy] [string] [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
+- [ ] [easy] [string] [67. Add Binary](https://leetcode.com/problems/add-binary/)
+- [x] [easy] [string] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
