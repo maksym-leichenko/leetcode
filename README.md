@@ -17,3 +17,4 @@ Solved:
 - [x] [easy] [array] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [x] [easy] [array] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] [easy] [array] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [x] [easy] [array] [66. Plus One](https://leetcode.com/problems/plus-one/)
