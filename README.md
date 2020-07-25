@@ -16,3 +16,4 @@ Solved:
 - [x] [easy] [array] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [x] [easy] [array] [27. Remove Element](https://leetcode.com/problems/remove-element/)
 - [x] [easy] [array] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+- [ ] [easy] [array] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
