@@ -13,3 +13,4 @@ Solved:
 - [x] [easy] [string] [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - [ ] [easy] [string] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [x] [easy] [string] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [easy] [array] [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
