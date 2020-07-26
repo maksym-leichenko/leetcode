@@ -20,6 +20,7 @@
 
 26.07: 
 - [x] [easy] [array] [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [easy] [array] [169. Majority Element](https://leetcode.com/problems/majority-element/)
 
 ----
 ### Need to be done: 
