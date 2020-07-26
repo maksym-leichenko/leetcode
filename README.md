@@ -25,3 +25,4 @@
 ### Need to be done: 
 - [ ] [easy] [string] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [ ] [easy] [array] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
+- [ ] [easy] [array] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
