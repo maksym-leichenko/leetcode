@@ -23,6 +23,10 @@
 - [x] [easy] [array] [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [x] [easy] [array] [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissieasy_array_ons/)
 
+22.08: 
+- [x] [easy] [array] [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+
+
 ----
 ### Need to be done: 
 - [ ] [easy] [string] [67. Add Binary](https://leetcode.com/problems/add-binary/)
