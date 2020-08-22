@@ -23,9 +23,13 @@
 - [x] [easy] [array] [169. Majority Element](https://leetcode.com/problems/majority-element/)
 - [x] [easy] [array] [189. Rotate Array](https://leetcode.com/problems/rotate-array/submissieasy_array_ons/)
 
+31.07:
+
+
 ----
 ### Need to be done: 
 - [ ] [easy] [string] [67. Add Binary](https://leetcode.com/problems/add-binary/)
 - [ ] [easy] [array] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray)
 - [ ] [easy] [array] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [ ] [easy] [math] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+- [ ] [easy] [math] [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
