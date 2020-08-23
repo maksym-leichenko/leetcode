@@ -27,6 +27,9 @@
 - [x] [easy] [array] [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - [x] [easy] [string] [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
+23.08: 
+- [x] [easy] [array] [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+
 
 ----
 ### Need to be done: 
