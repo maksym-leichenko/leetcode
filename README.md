@@ -41,4 +41,3 @@
 - [ ] [easy] [array] [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [ ] [easy] [math] [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [ ] [easy] [math] [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
-- [ ] [easy] TODO tomorrow [binary search] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
