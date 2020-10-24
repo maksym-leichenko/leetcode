@@ -33,6 +33,8 @@
 24.08: 
 - [x] [easy] [binary search] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/)
 
+24.10: 
+- [x] [easy] [Dynamic Programming] [198. House Robber](https://leetcode.com/problems/house-robber/) (Need repeat)
 
 ----
 ### Need to be done: 
